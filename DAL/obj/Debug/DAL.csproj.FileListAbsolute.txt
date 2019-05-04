@@ -1,0 +1,12 @@
+C:\Users\Clécio\source\repos\Sicad\DAL\bin\Debug\DAL.dll
+C:\Users\Clécio\source\repos\Sicad\DAL\bin\Debug\DAL.pdb
+C:\Users\Clécio\source\repos\Sicad\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Clécio\source\repos\Sicad\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Clécio\source\repos\Sicad\DAL\obj\Debug\DAL.dll
+C:\Users\Clécio\source\repos\Sicad\DAL\obj\Debug\DAL.pdb
+C:\Users\cle_g\source\repos\TREINO_A\DAL\bin\Debug\DAL.dll
+C:\Users\cle_g\source\repos\TREINO_A\DAL\bin\Debug\DAL.pdb
+C:\Users\cle_g\source\repos\TREINO_A\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\cle_g\source\repos\TREINO_A\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\cle_g\source\repos\TREINO_A\DAL\obj\Debug\DAL.dll
+C:\Users\cle_g\source\repos\TREINO_A\DAL\obj\Debug\DAL.pdb
